@@ -2,7 +2,7 @@
 
 
 ## OUTPUTS ##
--> No arquivo 'dadosPonte15-05.mat' a base de dados 'data' da aceleração vertical está contida no cell array denominados 'Baseline', 'VinteP' e 'CinquentaP', ou seja, 
+-> Em cada arquivo .mat, a aceleração vertical está contida no cell array denominados 'Baseline', 'VinteP' e 'CinquentaP', ou seja, 
 sem dano, 20% de dano e 50% de dano, respectivamente.
 
 -> Cada cenário tem dimensão 1x100, que correspondem a um conjunto de 100 sinais de aceleração 
